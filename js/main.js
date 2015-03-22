@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $('#content').html("<br/><br/><center><img src='images/spinner.gif' width='50px' height='50px'/></center>");
-  var url = 'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=20&q=http://feeds.feedburner.com/AscoDeVida';
+  var url = 'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=20&q=http://ano.lolcathost.org/rss-sfw.xml%22;';
 
   $.ajax({
     type: 'GET',
