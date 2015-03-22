@@ -1,16 +1,16 @@
 {
-    "name": "ADV Express",
+    "name": "ANO Express",
    "version": "0.1",
-   "description": "Mi versión de ADV para FirefoxOS",
+   "description": "Mi versión de ANO para FirefoxOS plagiada de la de ADV de Leandro Vázquez",
    "launch_path": "/index.html",
    "permissions": {
  },
    "developer": {
-     "name": "Leandro Vázquez Cervantes",
-     "url": "http://leandro.vc"
+     "name": "CodingFree",
+     "url": "http://www.twitter.com/CodingFree"
    },
  "icons": {
-     "60": "/images/adv-60.png",
-     "128": "/images/adv-128.png"
+     "60": "/images/ano-60.png",
+     "128": "/images/ano-128.png"
  }
 }

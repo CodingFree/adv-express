@@ -349,15 +349,15 @@ body {
   padding-left:4%;
   padding-right: 3%;
   font-size: 13px !important;
-  background: #222 url(../images/bg.jpg) repeat !important;
+  background: #000 !important;
   color: whitesmoke;}
-a {color:#ff4400;text-decoration: none;}
-a:hover {color: #ff4400;text-decoration: underline;}
+a {color:#FFFF00;text-decoration: none;}
+a:hover {color: #FFFF00;text-decoration: underline;}
 a img {border:0;}
 h1 {color:whitesmoke;}
 h2 {font-size:16px;}
 h3 {font-size:14px;margin:10px 0;}
-.naranja {color:#FF4400;}
+.naranja {color:#FFFF00;}
 .clear {clear: both;display: block;}
 .left {float:left;}
 .right {float:right;}
@@ -368,9 +368,9 @@ input, textarea {background-color:#FFF;}
 acronym {border-bottom:1px dotted;cursor:help;}
 .rounded3px {-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;}
 .rounded5px {-moz-border-radius: 5px;-webkit-border-radius: 5px;border-radius: 5px;}
-*::-moz-selection {background:#ff4400;color:#FFF;}
+*::-moz-selection {background:##FFFF00;color:#FFF;}
 
 .title {font-size: 15px}
-.info {background-color: #FF4400 !important;}
-.orange {color:#FF4400;}
+.info {background-color: #FFFF00 !important;}
+.orange {color:#FFFF00;}
 .txt {text-align: justify}
