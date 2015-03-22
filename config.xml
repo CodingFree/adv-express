@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "org.leandro.adv"
+        id          = "org.codingfree.ano"
         versionCode = "01"
         version     = "0.31" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>ADV-express</name>
+    <name>ANO-express</name>
 
     <description>
-        Mi versión para consultar ADV
+        Mi versión de ANO para FirefoxOS plagiada de la de ADV de Leandro Vázquez
     </description>
 
-    <author href="https://leandro.org" email="leandro@leandro.org">
-        Leandro
+    <author href="https://www.twitter.com/CodingFree" email="madrid.crespo@gmail.com">
+        CodingFree
     </author>
 
     <!--
