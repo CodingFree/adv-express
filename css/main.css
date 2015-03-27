@@ -8,6 +8,10 @@ html {
   height: 100%;
 }
 
+img{
+  width: 90%;
+}
+
 body {
   margin: 0;
   height: 100%;
@@ -370,7 +374,14 @@ acronym {border-bottom:1px dotted;cursor:help;}
 .rounded5px {-moz-border-radius: 5px;-webkit-border-radius: 5px;border-radius: 5px;}
 *::-moz-selection {background:##FFFF00;color:#FFF;}
 
-.title {font-size: 15px}
+.title {font-size: 15px width:10px;}
 .info {background-color: #FFFF00 !important;}
 .orange {color:#FFFF00;}
 .txt {text-align: justify}
+
+.spinner{
+  width:30%;
+}
+.logo{
+  width:50%;
+}
