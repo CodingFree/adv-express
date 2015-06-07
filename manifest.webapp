@@ -1,7 +1,7 @@
 {
-    "name": "ANO Express",
+   "name": "ANO Express",
    "version": "0.1",
-   "description": "Mi versión de ANO para FirefoxOS plagiada de la de ADV de Leandro Vázquez",
+   "description": "ANO (pronunciado / ano /) es un servicio de alojamiento de imágenes en línea fundado en España. ANO se describe a sí mismo como 'el hogar de contenido de imágenes más popular de la Web, moderada en tiempo real por una comunidad y de contenido deliberadamente ofensivo.' Dispone de alojamiento de imágenes para millones de usuarios. El proyecto se apoya en los ingresos generados por las donaciones.",
    "launch_path": "/index.html",
    "permissions": {
  },
@@ -12,5 +12,16 @@
  "icons": {
      "60": "/images/ano-60.png",
      "128": "/images/ano-128.png"
- }
+ },
+ "installs_allowed_from": ["*"],
+ "locales": {
+   "en-US": {
+     "name": "ANO Express",
+     "description": "ANO (pronounced /ano/) is an online image hosting service founded in Spain. ANO describes itself as 'the home to the web's most popular image content, curated in real time by a dedicated community and intentionally offensive.' It offers free image hosting to millions of users. The project supports itself with revenue generated from donations.",
+     "permissions": {
+     }
+   }
+ },
+ "default_locale": "es"
+
 }

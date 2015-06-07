@@ -1,16 +1,21 @@
 <!DOCTYPE HTML>
-<html manifest="ano.appcache">
+<html>
 <head>
+  <title>ANO Express</title>
   <meta charset="UTF-8">
+  <meta name="description" content="ANO (pronounced /ano/) is an online image hosting service founded in Spain. ANO describes itself as 'the home to the web's most popular image content, curated in real time by a dedicated community and intentionally offensive.' It offers free image hosting to millions of users. The company supports itself with revenue generated from donations.">
   <meta http-equiv="cleartype" content="on" />
   <meta name="MobileOptimized" content="width" />
   <meta name="HandheldFriendly" content="true" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <meta name="theme-color" content="#FF4400">
+  <meta name="theme-color" content="#ffc400">
 
+        <link rel="prefetch" type="application/l10n" href="data/locales.ini" />
+                
   <script type="text/javascript" src="js/head.load.min.js"></script>
   <script>
     head.load(
+      "js/l10n.js",
       "js/jquery.js",
       "js/main.js",
       "css/foundation.css",
@@ -25,6 +30,7 @@
         <img class="logo" src="images/logo.png" />
     </header>
     <section class="gaia-list fit scroll sticky">
+                <h1 data-l10n-id="app_title">Privileged empty app</h1>
       <article>
         <div id="content"></div>
       </article>
