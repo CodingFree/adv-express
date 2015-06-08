@@ -21,6 +21,7 @@ $(document).ready(function() {
 
       $('#content').html("");
       data.responseData.feed.entries.map(printa);
+      $("a").removeAttr("href").css("cursor","pointer");
     },
     error: function() {
       $('#content').empty();
@@ -32,5 +33,6 @@ $(document).ready(function() {
     },
     timeout: 3000
   });
+
 
 });

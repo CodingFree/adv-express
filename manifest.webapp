@@ -1,6 +1,6 @@
 {
    "name": "ANO Express",
-   "version": "0.1",
+   "version": "0.3.1.2",
    "description": "ANO (pronunciado / ano /) es un servicio de alojamiento de imágenes en línea fundado en España. ANO se describe a sí mismo como 'el hogar de contenido de imágenes más popular de la Web, moderada en tiempo real por una comunidad y de contenido deliberadamente ofensivo.' Dispone de alojamiento de imágenes para millones de usuarios. El proyecto se apoya en los ingresos generados por las donaciones.",
    "launch_path": "/index.html",
    "permissions": {
